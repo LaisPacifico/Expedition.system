@@ -29,6 +29,7 @@ public class Pallet {
 
 	public void addBox(Box box) {
 		boxes.add(box);
+		
 	}
 
 	public void removeBox(int idBox) {
