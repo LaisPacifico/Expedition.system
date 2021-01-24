@@ -17,6 +17,7 @@ public class Pallet {
 
 	public Box getBox(int index) {
 		return boxes.get(index);
+		
 	}
 
 	public int getIdPallet() {
